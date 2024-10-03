@@ -46,7 +46,12 @@ I am a beginner frontend developer
 </div>
 
 ### My stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Enddless&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enddless&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div >
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Enddless&theme=tokyonight)](https://git.io/streak-stats)
+</div>
+<div >
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enddless&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt=""/>
