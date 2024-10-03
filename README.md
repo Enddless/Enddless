@@ -4,7 +4,7 @@
 
 I am a beginner frontend developer
 
-My skills include:
+## My skills:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" style="width: 50px; height: 50px">
