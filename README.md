@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk5ZXIzaHR3YjNyMzhtbXA0Z3MyMHRoM2Z1dXg3bjFnamZ4YXZqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk5ZXIzaHR3YjNyMzhtbXA0Z3MyMHRoM2Z1dXg3bjFnamZ4YXZqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
 ## Hello. My name is Diana
