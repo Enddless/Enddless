@@ -35,12 +35,6 @@ And other skills:
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" style="width: 50px; height: 50px">
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enddless&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Enddless&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enddless&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enddless&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Enddless&theme=solarized_dark)
-
 ## Contacts me
 - email: [iv_diana@bk.ru](mailto:iv_diana@bk.ru)
 - telegram: [@endless_moonlight_on_monday](https://t.me/endless_moonlight_on_monday)
