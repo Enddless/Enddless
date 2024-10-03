@@ -1,6 +1,6 @@
 ![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ftsifrovoi-fon-6.jpg?alt=media&token=d648b85e-9aaa-42a6-8676-73046f1b68d9)
 
-# Hello. My name is Diana
+## Hello. My name is Diana
 
 I am a beginner frontend developer
 
