@@ -1,10 +1,10 @@
-<h2>Hello!</h2>
-
 ![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ftsifrovoi-fon-6.jpg?alt=media&token=d648b85e-9aaa-42a6-8676-73046f1b68d9)
 
-<p>I am a beginner frontend developer</p>
-<p>My nickname on Telegram is: <a href="https://t.me/endless_moonlight_on_monday">@endless_moonlight_on_monday</a></p>
-<h3>My skills include:</h3>
+# Hello. My name is Diana
+
+I am a beginner frontend developer
+
+My skills include:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" style="width: 50px; height: 50px">
@@ -17,7 +17,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Axios" style="width: 50px; height: 50px">
 </div>
    
-<h3>And other skills:</h3>
+And other skills:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="Material UI" style="width: 50px; height: 50px">
@@ -40,3 +40,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enddless&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enddless&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Enddless&theme=solarized_dark)
+
+## Contacts me
+- email: [iv_diana@bk.ru](mailto:iv_diana@bk.ru)
+- telegram: [@endless_moonlight_on_monday](https://t.me/endless_moonlight_on_monday)
