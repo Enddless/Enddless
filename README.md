@@ -36,7 +36,7 @@ I am a beginner frontend developer
 
 ## Contacts me:
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="mailto:iv_diana@bk.ru">
     <img src="https://www.svgrepo.com/show/389556/email-envelope-letter-mail-message.svg" alt="Mail Badge" style="width: 50px; height: 50px"/>
     iv_diana@bk.ru
