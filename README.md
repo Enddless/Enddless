@@ -1,5 +1,7 @@
 <h2>Hello!</h2>
 
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ftsifrovoi-fon-6.jpg?alt=media&token=d648b85e-9aaa-42a6-8676-73046f1b68d9)
+
 <p>I am a beginner frontend developer</p>
 <p>My nickname on Telegram is: <a href="https://t.me/endless_moonlight_on_monday">@endless_moonlight_on_monday</a></p>
 <h3>My skills include:</h3>
