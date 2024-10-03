@@ -43,12 +43,12 @@ Hello. My name is Diana. I am a beginner frontend developer
 ### Contacts me:
 
 <div >
-  <a href="mailto:iv_diana@bk.ru" style="text-decoration:none">
-    <img src="https://www.svgrepo.com/show/389556/email-envelope-letter-mail-message.svg" alt="Mail Badge" style="width: 50px; height: 50px"/>
+  <a href="mailto:iv_diana@bk.ru">
+    <img src="https://www.svgrepo.com/show/389556/email-envelope-letter-mail-message.svg" alt="Mail Badge" style="width: 50px; height: 50px; text-decoration: none;"/>
   </a>
   
-  <a href="https://t.me/endless_moonlight_on_monday" style="text-decoration:none">
-    <img src="https://www.svgrepo.com/show/473804/telegram.svg" alt="Telegram Badge" style="width: 50px; height: 50px"/>
+  <a href="https://t.me/endless_moonlight_on_monday" >
+    <img src="https://www.svgrepo.com/show/473804/telegram.svg" alt="Telegram Badge" style="width: 50px; height: 50px"; text-decoration: none;/>
   </a>
 </div>
 
