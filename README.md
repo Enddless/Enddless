@@ -15,10 +15,6 @@ My skills include:
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="Axios" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Axios" style="width: 50px; height: 50px">
-</div>
-   
-And other skills:
-<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="Material UI" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="Npm" style="width: 50px; height: 50px">
