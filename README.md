@@ -6,7 +6,7 @@
 
 I am a beginner frontend developer
 
-### Languages and Tools :
+### Languages and tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" style="width: 50px; height: 50px">
@@ -31,6 +31,14 @@ I am a beginner frontend developer
 <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Netlify" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" style="width: 50px; height: 50px">
+</div>
+
+### My portfolio
+
+<div>
+  <a href="https://enddless.github.io/my-portfolio/">
+    link to portfolio
+  </a>
 </div>
 
 
