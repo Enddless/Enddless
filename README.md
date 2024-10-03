@@ -6,7 +6,7 @@
 
 I am a beginner frontend developer
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" style="width: 50px; height: 50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" style="width: 50px; height: 50px">
@@ -34,7 +34,7 @@ I am a beginner frontend developer
 </div>
 
 
-## Contacts me:
+### Contacts me:
 
 <div>
   <a href="mailto:iv_diana@bk.ru">
