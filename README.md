@@ -36,18 +36,17 @@ I am a beginner frontend developer
 
 ### Contacts me:
 
-<div>
+<div align="center">
   <a href="mailto:iv_diana@bk.ru">
     <img src="https://www.svgrepo.com/show/389556/email-envelope-letter-mail-message.svg" alt="Mail Badge" style="width: 50px; height: 50px"/>
-    iv_diana@bk.ru
   </a>
 </div>
-<div>  
+<div align="center">  
   <a href="https://t.me/endless_moonlight_on_monday">
     <img src="https://www.svgrepo.com/show/473804/telegram.svg" alt="Telegram Badge" style="width: 50px; height: 50px"/>
-    @endless_moonlight_on_monday
   </a>
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Enddless&theme=tokyonight)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt=""/>
