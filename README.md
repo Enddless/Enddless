@@ -42,8 +42,15 @@ Hello. My name is Diana. I am a beginner frontend developer
 
 ### Contacts me:
 
-- <img src="https://www.svgrepo.com/show/389556/email-envelope-letter-mail-message.svg" alt="Mail Badge" style="width: 50px; height: 50px"/>:[iv_diana@bk.ru](mailto:iv_diana@bk.ru)
-- <img src="https://www.svgrepo.com/show/473804/telegram.svg" alt="Telegram Badge" style="width: 50px; height: 50px"/>: [@endless_moonlight_on_monday](https://t.me/endless_moonlight_on_monday)
+<div style="display: flex; align-items: center;">
+  <img src="https://www.svgrepo.com/show/389556/email-envelope-letter-mail-message.svg" alt="Mail Badge" style="width: 50px; height: 50px; margin-right: 10px;"/>
+  <a href="mailto:iv_diana@bk.ru">iv_diana@bk.ru</a>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://www.svgrepo.com/show/473804/telegram.svg" alt="Telegram Badge" style="width: 50px; height: 50px; margin-right: 10px;"/>
+  <a href="https://t.me/endless_moonlight_on_monday">@endless_moonlight_on_monday</a>
+</div>
 
 
 ### My stats:
