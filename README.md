@@ -1,4 +1,6 @@
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ftsifrovoi-fon-6.jpg?alt=media&token=2fccd76c-181a-4b82-8747-d8b22d87f07b)
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk5ZXIzaHR3YjNyMzhtbXA0Z3MyMHRoM2Z1dXg3bjFnamZ4YXZqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="900"/>
+</div>
 
 ## Hello. My name is Diana
 
@@ -32,9 +34,7 @@ I am a beginner frontend developer
 </div>
 
 ## Contacts me
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk5ZXIzaHR3YjNyMzhtbXA0Z3MyMHRoM2Z1dXg3bjFnamZ4YXZqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="900"/>
-</div>
+
 
 
 
@@ -46,5 +46,7 @@ I am a beginner frontend developer
     <img src="https://www.svgrepo.com/show/473804/telegram.svg" alt="Telegram Badge" style="width: 50px; height: 50px"/>
   </a>
 </div>
+
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ftsifrovoi-fon-6.jpg?alt=media&token=2fccd76c-181a-4b82-8747-d8b22d87f07b)
 
 <img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt=""/>
