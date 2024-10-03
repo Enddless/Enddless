@@ -1,4 +1,4 @@
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ffuturistic-technology-geometric-background_87720-53870.jpg?alt=media&token=40ce9931-ad1d-48a4-a953-e6c2622d82f2)
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2Ftsifrovoi-fon-6.jpg?alt=media&token=2fccd76c-181a-4b82-8747-d8b22d87f07b)
 
 ## Hello. My name is Diana
 
