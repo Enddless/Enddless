@@ -34,3 +34,5 @@ I am a beginner frontend developer
 ## Contacts me
 - email: [iv_diana@bk.ru](mailto:iv_diana@bk.ru)
 - telegram: [@endless_moonlight_on_monday](https://t.me/endless_moonlight_on_monday)
+
+<img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt=""/>
