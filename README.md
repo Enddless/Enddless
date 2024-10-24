@@ -2,7 +2,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHk5ZXIzaHR3YjNyMzhtbXA0Z3MyMHRoM2Z1dXg3bjFnamZ4YXZqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dela+Gothic+One&size=22&pause=1000&color=342F91&width=435&lines=Hello.+My+name+is+Diana.;I+am+a+beginner+frontend+developer)](https://git.io/typing-svg)
+<div style="width: 100%; text-align: center;">
+  <a href="https://git.io/typing-svg" style="display: inline-block; width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dela+Gothic+One&size=22&pause=1000&color=342F91&width=1000&lines=Hello.+My+name+is+Diana.;I+am+a+beginner+frontend+developer" alt="Typing SVG" style="width: 100%;" />
+  </a>
+</div>
 
 ### Languages and tools :
 <p>
