@@ -6,8 +6,6 @@
 
 ### Languages and tools :
 <p>
-# Мой проект
-
 [![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=703ee5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=703ee5)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=white&labelColor=703ee5)](https://sass-lang.com/)
