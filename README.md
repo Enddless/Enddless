@@ -61,6 +61,10 @@ You can view my portfolio by clicking on the image below.
 
 
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enddless&layout=compact&theme=vision-friendly-dark&card_width=400&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enddless&layout=compact&theme=vision-friendly-dark&card_width=1000&card_height=300" alt="Top Langs" style="width: 100%;" />
+  </a>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt=""/>
