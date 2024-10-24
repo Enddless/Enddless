@@ -57,6 +57,6 @@
 
 
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enddless&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enddless&layout=compact&theme=vision-friendly-dark&card_width=600&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt="" width="400"/>
+<img src="https://komarev.com/ghpvc/?username=Enddless&style=flat-square&color=blue" alt="""/>
