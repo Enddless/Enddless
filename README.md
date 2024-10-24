@@ -37,8 +37,7 @@
 ### My portfolio
 
 <div>
-  <a href="https://enddless.github.io/my-portfolio/">
-    link to portfolio
+  <a href="https://enddless.github.io/my-portfolio/" title="Click to view my portfolio">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2FPortfolio.png?alt=media&token=55296bf1-20fe-43c4-b06a-a4b6d80eaf44" alt="My Portfolio" width="600" />
   </a>
 </div>
