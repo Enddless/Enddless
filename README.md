@@ -41,7 +41,7 @@
 ### My portfolio
 You can view my portfolio by clicking on the image below.
 <div>
-  <a href="https://enddless.github.io/my-portfolio/" title="Click to view my portfolio">
+  <a href="https://enddless.github.io/my-portfolio/" title="Click to view my portfolio" target="_blank">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-2d99f.appspot.com/o/jpg%2FPortfolio.png?alt=media&token=55296bf1-20fe-43c4-b06a-a4b6d80eaf44" alt="My Portfolio" style="width: 100%;"  />
   </a>
 </div>
