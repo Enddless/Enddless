@@ -42,7 +42,7 @@
 You can view my portfolio by clicking on the image below.
 <div>
   <a href="https://enddless.github.io/my-portfolio/" title="Click to view my portfolio" target="_blank">
-    <img src="https://www.dropbox.com/s/h6fjtfexpnl5l7e3ikq6i/Portfolio.jpg?raw=1" alt="My Portfolio" style="width: 100%;"  />
+    <img src="[https://www.dropbox.com/s/h6fjtfexpnl5l7e3ikq6i/Portfolio.jpg?raw=1](https://www.dropbox.com/s/h6fjtfexpnl5l7e3ikq6i/Portfolio.jpg?raw=1)" alt="My Portfolio" style="width: 100%;"  />
   </a>
 </div>
 
